@@ -1,2 +1,2 @@
 # Python-Scripts
-A repository with various Python scripts.
+This repository contains various Python scripts.
